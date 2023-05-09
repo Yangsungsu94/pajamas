@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pajamas/static/css/main.8238a938.css",
-    "main.js": "/pajamas/static/js/main.04dc116d.js",
+    "main.js": "/pajamas/static/js/main.a6dc97d6.js",
     "static/js/787.08fa795f.chunk.js": "/pajamas/static/js/787.08fa795f.chunk.js",
     "index.html": "/pajamas/index.html",
     "main.8238a938.css.map": "/pajamas/static/css/main.8238a938.css.map",
-    "main.04dc116d.js.map": "/pajamas/static/js/main.04dc116d.js.map",
+    "main.a6dc97d6.js.map": "/pajamas/static/js/main.a6dc97d6.js.map",
     "787.08fa795f.chunk.js.map": "/pajamas/static/js/787.08fa795f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8238a938.css",
-    "static/js/main.04dc116d.js"
+    "static/js/main.a6dc97d6.js"
   ]
 }
